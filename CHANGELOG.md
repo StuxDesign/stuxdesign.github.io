@@ -5,6 +5,17 @@ All notable changes to stuxdesign.github.io are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.06
+
+### Changed
+
+- The README describes what this repo actually is, the redirect from stuxdesign.github.io to
+  github.com/StuxDesign, instead of a generic "redirect to example.com" template (it isn't a template repo).
+- The README and CONTRIBUTING use the light/dark Stux.Design logo and the full name **Stux.Design GitHub Pages
+  Redirect**.
+- The README's licence section reads © Stux.Group (it said "Feel free to use this template"), with the standard
+  Stux.Design footer.
+
 ## v26.10.23
 
 ### Added

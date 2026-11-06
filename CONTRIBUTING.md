@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://global.media.stux.design/logo.png" height="80" alt="Stux.Design Logo">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.design/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.design/logo-dark.png"><img src="https://global.media.stux.design/logo-dark.png" height="80" alt="Stux.Design Logo"></picture>
 </p>
 
-# Contributing to stuxdesign.github.io
+# Contributing to Stux.Design GitHub Pages Redirect
 
 This is a minimal GitHub Pages redirect page (`index.html`) that forwards visitors from `stuxdesign.github.io` to [github.com/StuxDesign](https://github.com/StuxDesign). This document is for anyone working on the redirect page itself.
 
